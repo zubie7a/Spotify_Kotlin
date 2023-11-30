@@ -29,15 +29,16 @@ The data from LastFM is very limited, just names of songs, albums, artists, and 
 
 With this data I tried extracting the following stuff for **2022** and **2023** to compare:
 
-* A chart with the count of songs played every day the whole year
-* A chart with the count of songs played every hour
-* Songs, albums, and artists most listened to in 2023, and their change in ranking compared to 2022
-* Songs, albums, and artists most listened to in a same day
-* Songs, albums, and artists most listened to in 2023 which I hadn't listened to in 2022
-* Songs, albums, and artists most listened to in 2022 which I didn't listen again in 2023
-* The amount of unique songs I've listened to
-* The amount of unique artists I've listened to
-* The total amount of songs (including repeats) I've listened to
+* A chart with the count of songs played every day for each year
+* A chart with the count of songs played every hour for each year
+* Top songs, albums, and artists in 2023, and their change in ranking compared to 2022
+* Top songs, albums, and artists listened to repeatedly in a same day
+* Top songs, albums, and artists in 2023 which I hadn't listened to in 2022
+* Top songs, albums, and artists in 2022 which I didn't listen again in 2023
+* The amount of "new" artists listened this year (listened to in 2023 but not 2022)
+* The amount of unique songs I've listened to for each year
+* The amount of unique artists I've listened to for each year
+* The total amount of songs (including repeats) I've listened to for each year
 
 With the full Spotify export I hope I'm also able to get data like:
 * My playlists' content, to join it with streaming data to see how often, how long, and at what time I listen to my almost 200 playlists
